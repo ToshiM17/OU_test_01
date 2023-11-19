@@ -1,6 +1,7 @@
 #include <iostream>
-
+using namespace std;
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    int a=1, b=2;
+    cout<<a+b;
     return 0;
 }
