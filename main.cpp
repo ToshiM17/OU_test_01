@@ -1,7 +1,9 @@
 #include <iostream>
 using namespace std;
 int main() {
-    int a=1, b=2;
+    int a=0, b=2;
+    cout<<"Podaj liczbe";
+    cin>>a;
     cout<<a+b;
     return 0;
 }
